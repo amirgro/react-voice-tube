@@ -1,4 +1,4 @@
-# ${1:react-voice-tube}
+# react-voice-tube
 A react component that enables youtube video control with voice recognition.
 ## Installation
 TODO: Describe the installation process
